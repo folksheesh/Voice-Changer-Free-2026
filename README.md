@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="voice-changer-ai-social-preview.png" width="100%" alt="Voice Changer Banner">
+</p>
+
 🎙️ Voice Changer
 
 Voice Changer is a real-time voice transformation application that lets you modify your microphone input and create unique voice effects. Whether you want to sound completely different, experiment with audio filters, or simply have fun with voice transformations, this application provides the tools to customize your voice.
